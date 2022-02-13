@@ -1,10 +1,16 @@
 # studentdbot-mypart
 
 ### Notes
-$addnotetype [note] ... - lets user add notes in 3 different formats, text, link, file - built a feature to organize files in the workplace - may or may not use, just did anyway 4 fun
+$addnotetype [note] ... - lets user add notes in 3 different formats, text, link, file
+<br>
 $updatenote - let user update a part of their note - some things banned
+<br>
 $delnote - let user delete note their note
-$SHOWALLNOTES - shows all notes in single embed, no buttons
-$test (will be renamed to notes later) - to show all notes, and has interactive buttons 
+<br>
+$SHOWALLNOTES - shows all notes in single embed, no buttons<br>
+$notes - to show all notes, and has interactive buttons
+<br>
 maybe will use: clears all notes during summer break
+<br>
 $test [subject] to see all the notes for a subject (no buttons)
+<br>
