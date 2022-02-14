@@ -24,5 +24,8 @@ $test [subject] to see all the notes for a subject (no buttons)
 ### GPS Animation
 ![xdhmmname](https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif)
 
+### Aquainter
+Uses student's courses, ecs, classes, hours, etc. to determine an affinity and match people up to set up potential friendships
+
 ### Misc Front End
 ![image](https://user-images.githubusercontent.com/69024184/153771082-cfd3e337-7f25-4af0-a63c-c34cd7a931d8.png)
