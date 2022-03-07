@@ -1,15 +1,16 @@
 # Student Assistance Bot
+
 # This is my old code, this was posted a month ago, but this was written six months ago, this is not an accurate representation of my current programming patterns
 ###### Most recent projects are found at `https://github.com/khyreek/Discord-Message-Epilepsy-Detector` & `https://github.com/khyreek/Codeforcescord-Bot`
+
 #### This project was worked on with two other partners, this repo showcases my work, theirs can be found at, x, y
 #### `udb.py` was not built by me, credits go to [add] (hyperlink this stuff ltaer)
 #### The import of `get_data` in `udb.py` was written by [add]
 
-## Demonstration
-
+## Features
 ### Scholarships
-description
-![schol](https://user-images.githubusercontent.com/69024184/153770914-6be2627c-9b5c-45ab-b809-9a5c4bb90779.png)
+Scrapes the person's information from the users database and calculates their closeness to graduation
+<img src="https://user-images.githubusercontent.com/69024184/153770914-6be2627c-9b5c-45ab-b809-9a5c4bb90779.png" width="400px" height="400px">
 
 ### Notes
 description
