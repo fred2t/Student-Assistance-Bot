@@ -4,7 +4,7 @@
 ###### Most recent projects are found at `https://github.com/khyreek/Discord-Message-Epilepsy-Detector` & `https://github.com/khyreek/Codeforcescord-Bot`
 
 #### This project was worked on with two other partners, this repo showcases my work, theirs can be found at, x, y
-#### `udb.py` was not built written by me, credits go to [`@IbrahimEllahi`](https://github.com/IbrahimEllahi)
+#### [`udb.py`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py) was not built written by me, credits go to [`@IbrahimEllahi`](https://github.com/IbrahimEllahi)
 #### The import of [`get_data`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py#L4) was written by [`@tejveeer`](https://github.com/tejveeer)
 
 ## Features
