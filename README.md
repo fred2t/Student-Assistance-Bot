@@ -1,5 +1,5 @@
 # Student Assistance Bot
-##### This is my old code, I posted this around a month ago, but this was built 6 months ago from now, this is not an accurate representation of my current programming patterns
+# This is my old code, I posted this around a month ago, but this was built 6 months ago from now, this is not an accurate representation of my current programming patterns
 #### This project was worked on with two other partners, this repo showcases my work, theirs can be found at, x, y
 #### `udb.py` was not built by me, credits go to [add], 
 #### The import of `get_data` in `udb.py` was written by [add]
