@@ -1084,5 +1084,5 @@ async def test(ctx) -> discord.message.Message:
 	await ctx.send(type(test))
 
 
-
-bot.run("OTM2NDQzMDE0NzY1NzU2NDE2.YfNQhA.U0HeM2Q0aEUhFpRKz_hLV5ilOKU")
+TOKEN = "[ADDYOURSHERE]"
+bot.run(TOKEN)
