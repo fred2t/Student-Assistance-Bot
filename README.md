@@ -3,7 +3,7 @@
 # This is my old code, this was posted a month ago, but this was written six months ago, this is not an accurate representation of my current programming patterns
 ###### Most recent projects are found at `https://github.com/khyreek/Discord-Message-Epilepsy-Detector` & `https://github.com/khyreek/Codeforcescord-Bot`
 
-#### This project was worked on with two friends/schoolmates, this repo showcases my work, their's can be found on their profiles linked below
+#### This project was worked on with two friends/schoolmates, this repo showcases my work, their's can be found on their profiles linked below (the mentions below aren't the only things they worked on)
 #### [`udb.py`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py) was not built written by me, credits go to [`@IbrahimEllahi`](https://github.com/IbrahimEllahi)
 #### The import of [`get_data`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py#L4) was written by [`@tejveeer`](https://github.com/tejveeer)
 
@@ -21,7 +21,7 @@ Scrapes the person's information from the users database and calculates their cl
 <img src="https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png" width="600px" >
 
 ### GPS Animation
-GPS was a feature to take the map of our school and give directions to get the shortest path from point `A` to `B` given any points `A` and `B`<br>
+GPS was a feature to take the map of our school and give directions to get the shortest path from point `A` to `B` given any points `A` and `B` and this was just the animator to show this<br>
 
 <img src="https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif" width="550px" >
 
