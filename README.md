@@ -4,10 +4,6 @@
 #### `udb.py` was not built by me, credits go to [add] (hyperlink this stuff ltaer)
 #### The import of `get_data` in `udb.py` was written by [add]
 
-## How to use
-1. Download necessary packages found by going through files
-2. Replace (hyperlink)token with your discord bot token
-
 ## Demonstration
 
 ### Scholarships
@@ -31,3 +27,7 @@ Uses student's courses, ecs, classes, hours, etc. to determine an affinity and m
 
 ### Misc Front End
 ![image](https://user-images.githubusercontent.com/69024184/153771082-cfd3e337-7f25-4af0-a63c-c34cd7a931d8.png)
+
+## How to use
+1. Download necessary packages found by going through files
+2. Replace (hyperlink)token with your discord bot token
