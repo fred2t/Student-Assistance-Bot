@@ -16,7 +16,7 @@ maybe will use: clears all notes during summer break
 <br>
 $test [subject] to see all the notes for a subject (no buttons)
 <br>
-![Screenshot 2022-02-13 141459](https://user-images.githubusercontent.com/69024184/153770922-ccd55b39-9b3f-41f7-ab8c-66e11e3ca141.png)
+![image](https://user-images.githubusercontent.com/69024184/157091559-10a460d8-cbe0-4556-9d57-e40c89516fa1.png)
 
 ### Graduation
 ![grad](https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png)
