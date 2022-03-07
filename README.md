@@ -13,8 +13,8 @@ Scrapes the person's information from the users database and calculates their cl
 <img src="https://user-images.githubusercontent.com/69024184/153770914-6be2627c-9b5c-45ab-b809-9a5c4bb90779.png" width="400px" height="400px">
 
 ### Notes
-description
-![image](https://user-images.githubusercontent.com/69024184/157091559-10a460d8-cbe0-4556-9d57-e40c89516fa1.png)
+Allows people to store their notes in a database that can be accessed with a discord-friendly UI in one place
+<img src="https://user-images.githubusercontent.com/69024184/157091559-10a460d8-cbe0-4556-9d57-e40c89516fa1.png" width="100px" >
 
 ### Graduation
 description
