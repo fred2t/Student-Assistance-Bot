@@ -4,29 +4,26 @@
 #### `src/udb.py` was not built by me, credits go to [add], 
 #### The import of `get_data` in `src/udb.py` was written by [add]
 
+## How to use
+1. Download necessary packages found by going through files
+2. Replace (hyperlink)token with your discord bot token
+
+## Demonstration
+
 ### Scholarships
+description
 ![schol](https://user-images.githubusercontent.com/69024184/153770914-6be2627c-9b5c-45ab-b809-9a5c4bb90779.png)
 
 ### Notes
-$addnotetype [note] ... - lets user add notes in 3 different formats, text, link, file
-<br>
-$updatenote - let user update a part of their note - some things banned
-<br>
-$delnote - let user delete note their note
-<br>
-$SHOWALLNOTES - shows all notes in single embed, no buttons<br>
-$notes - to show all notes, and has interactive buttons
-<br>
-maybe will use: clears all notes during summer break
-<br>
-$test [subject] to see all the notes for a subject (no buttons)
-<br>
+description
 ![image](https://user-images.githubusercontent.com/69024184/157091559-10a460d8-cbe0-4556-9d57-e40c89516fa1.png)
 
 ### Graduation
+description
 ![grad](https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png)
 
 ### GPS Animation
+description
 ![xdhmmname](https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif)
 
 ### Aquainter
