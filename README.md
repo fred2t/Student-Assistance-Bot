@@ -18,10 +18,10 @@ Allows people to store their notes in a database that can be accessed with a dis
 
 ### Graduation
 Scrapes the person's information from the users database and calculates their closeness to graduation
-![grad](https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png)
+<img src="https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png" width="600px" >
 
 ### GPS Animation
-description
+GPS was a feature to take the map of our school and give directions to get the shortest path from point `A` to `B` given any points `A` and `B`
 ![xdhmmname](https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif)
 
 ### Aquainter
