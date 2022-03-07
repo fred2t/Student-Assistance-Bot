@@ -9,7 +9,7 @@
 
 ## Features
 ### Scholarships
-Scrapes the person's information from the users database and calculates their closeness to graduation
+Webscrapes to find the hottest current scholarships. Also allows option to redirect to scholarship infographics if person needs them
 <img src="https://user-images.githubusercontent.com/69024184/153770914-6be2627c-9b5c-45ab-b809-9a5c4bb90779.png" width="400px">
 
 ### Notes
@@ -17,7 +17,7 @@ Allows people to store their notes in a database that can be accessed with a dis
 <img src="https://user-images.githubusercontent.com/69024184/157091559-10a460d8-cbe0-4556-9d57-e40c89516fa1.png" width="300px" >
 
 ### Graduation
-description
+Scrapes the person's information from the users database and calculates their closeness to graduation
 ![grad](https://user-images.githubusercontent.com/69024184/153770936-ca73ddf5-7172-428b-938f-fcd4fa3ed511.png)
 
 ### GPS Animation
