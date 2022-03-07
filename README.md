@@ -22,13 +22,16 @@ Scrapes the person's information from the users database and calculates their cl
 
 ### GPS Animation
 GPS was a feature to take the map of our school and give directions to get the shortest path from point `A` to `B` given any points `A` and `B`
-![xdhmmname](https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif)
+
+<img src="https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif" width="400px" >
+<!-- ![xdhmmname](https://user-images.githubusercontent.com/69024184/153770948-433d5d86-9c5e-410f-ade6-1472b6e40810.gif) -->
 
 ### Aquainter
 Uses student's courses, ecs, classes, hours, etc. to determine an affinity and match people up to set up potential friendships. Once found, both users will be DM'd
 
 ### Misc Front End
-![image](https://user-images.githubusercontent.com/69024184/153771082-cfd3e337-7f25-4af0-a63c-c34cd7a931d8.png)
+<img src="https://user-images.githubusercontent.com/69024184/153771082-cfd3e337-7f25-4af0-a63c-c34cd7a931d8.png" width="500px" >
+<!-- ![image](https://user-images.githubusercontent.com/69024184/153771082-cfd3e337-7f25-4af0-a63c-c34cd7a931d8.png) -->
 
 ## How to use
 1. Download necessary packages found by going through files
