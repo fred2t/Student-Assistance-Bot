@@ -32,4 +32,4 @@ Uses student's courses, ecs, classes, hours, etc. to determine an affinity and m
 
 ## How to use
 1. Download necessary packages found by going through files
-2. Replace (hyperlink)token with your discord bot token
+2. Replace [`TOKEN`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/dbot.py#L1087) with your discord bot token
