@@ -1,8 +1,5 @@
 # Student Assistance Bot
 
-# This is my old code, this was posted a month ago, but this was written six months ago, this is not an accurate representation of my current programming patterns
-###### Most recent projects are found at `https://github.com/khyreek/Discord-Message-Epilepsy-Detector` & `https://github.com/khyreek/Codeforcescord-Bot`
-
 #### This project was worked on with two friends/schoolmates, this repo showcases my work, their's can be found on their profiles linked below (the mentions below aren't the only things they worked on)
 #### [`udb.py`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py) was not built written by me, credits go to [`@IbrahimEllahi`](https://github.com/IbrahimEllahi)
 #### The import of [`get_data`](https://github.com/khyreek/Student-Assistance-Bot/blob/master/udb.py#L4) was written by [`@tejveeer`](https://github.com/tejveeer)
